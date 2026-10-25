@@ -1,6 +1,7 @@
 {
   "data": [
     {"name":"Mona","id_batiment":5060,"x":14,"y":-2,"avatar":"https://upload.wikimedia.org/wikipedia/en/2/2a/Morgana_Persona.png","durabilite":"Joker's Cat","type":"I'll steal your heart","couleur":"#be03fc","description":"Morgana le Chat"},
+    {"name":"bla","id_batiment":5060,"x":14,"y":15,"avatar":"blabla","durabilite":"dsfds","type":"rwerwer","couleur":432432,"description":234234},
     {"name":"Écureuil Holo","id_batiment":6712,"x":-15,"y":2,"avatar":"https://cdn.britannica.com/80/157580-004-FFB75F13.jpg","durabilite":"Règne sur la Matrice.","type":"Existe pour de vrai","couleur":"","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne."},
     {"name":"Écureuil Holo","id_batiment":5060,"x":17,"y":1,"avatar":"https://cdn.britannica.com/80/157580-004-FFB75F13.jpg","durabilite":"Règne sur la Matrice.","type":"Existe pour de vrai","couleur":"#fa28ef","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne."},
     {"name":"Thalya","id_batiment":45,"x":21,"y":34,"avatar":"https://www.google.ca","durabilite":"Dodo ou Gaming","type":"Existe pour de vrai","couleur":"","description":"Un coussin confo. Mais que faire ensuite?"},
