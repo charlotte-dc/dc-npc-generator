@@ -1,8 +1,6 @@
 {
   "data": [
-    {"name":"Mona","id_batiment":5060,"x":14,"y":-2,"avatar":{"valueType":"IMAGE"},"durabilite":"Joker's Cat","type":"I'll steal your heart","couleur":"#be03fc","description":"Morgana le Chat"},
-    {"name":"Blue","id_batiment":5060,"x":15,"y":2,"avatar":{"valueType":"IMAGE"},"durabilite":"Réel","type":"Par Charlotte","couleur":"#ff00aa","description":"Un test"},
     {"name":"Biff","id_batiment":8852,"x":7,"y":-26,"avatar":{"valueType":"IMAGE"},"durabilite":"Écureuil Holographique","type":"Varkha le voulait","couleur":"#fa28ef","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne.  Il se promène dans le salon, grimpe sur les divers meubles et observes les gens qui fréquentent la pièce. Parfois il viendra même se poser sur vous."},
-    {"name":"Écureuil Holo","id_batiment":5060,"x":17,"y":1,"avatar":{"valueType":"IMAGE"},"durabilite":"Règne sur la Matrice.","type":"Existe pour de vrai","couleur":"#fa28ef","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne."}
+    {"name":"Écureuil Holo","id_batiment":5060,"x":17,"y":1,"avatar":{"valueType":"IMAGE"},"durabilite":"Le tout premier PNJ crée pour l'occasion","type":"Existe pour de vrai","couleur":"#fa28ef","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne."}
   ]
 }
