@@ -1,11 +1,5 @@
 {
   "data": [
-    {"name":"Écureuil Holo","id_batiment":6712,"x":-15,"y":2,"avatar":"https://cdn.britannica.com/80/157580-004-FFB75F13.jpg","type":"Règne sur la Matrice.","durabilite":"Existe pour de vrai","couleur":"","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne."},
-    {"name":"Écureuil Holo","id_batiment":5060,"x":17,"y":1,"avatar":"https://cdn.britannica.com/80/157580-004-FFB75F13.jpg","type":"Règne sur la Matrice.","durabilite":"Existe pour de vrai","couleur":"#fa28ef","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne."},
-    {"name":"Thalya","id_batiment":45,"x":21,"y":34,"avatar":"https://www.google.ca","type":"Dodo ou Gaming","durabilite":"Existe pour de vrai","couleur":"","description":"Un coussin confo. Mais que faire ensuite?"},
-    {"name":"Miss.Collectif","id_batiment":7186,"x":9,"y":-25,"avatar":"https://media.printables.com/media/prints/630404/images/4994062_661c04df-4f76-426c-bdfb-c8ec326d1630_4cc22b81-7a32-4807-94cd-3c74dadac586/thumbs/inside/1920x1440/jpg/miss_minutes_clock_1.webp","type":"La reine du Collectif","durabilite":"Existe pour de vrai","couleur":"","description":"C'est l'heure!"},
-    {"name":"Hibou Continuum","id_batiment":3619,"x":1,"y":-31,"avatar":"https://www.dreadcast.net/images/avatars/Lea.png","type":"Continuum","durabilite":"Existe pour de vrai","couleur":"","description":"Alright"},
-    {"name":"Biff","id_batiment":8852,"x":7,"y":-26,"avatar":"https://cdn.britannica.com/80/157580-004-FFB75F13.jpg","type":"Écureuil Holographique","durabilite":"Varkha le voulait","couleur":"","description":"Un petit écureuil tout adorable qui se promène dans l'appartement. Il est tout mignon et ferait fondre le coeur de n'importe quelle personne.  Il se promène dans le salon, grimpe sur les divers meubles et observes les gens qui fréquentent la pièce. Parfois il viendra même se poser sur vous."},
-    {"name":"Pigeon Holo","id_batiment":5060,"x":17,"y":2,"avatar":"https://cdn-icons-png.flaticon.com/512/8758/8758523.png","type":"Hou","durabilite":"Roucouleur","couleur":"#32a852","description":"C'est un pigeon"}
+
   ]
 }
